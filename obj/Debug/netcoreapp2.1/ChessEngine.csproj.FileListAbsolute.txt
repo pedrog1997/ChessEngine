@@ -1,0 +1,11 @@
+/home/pedro/Documents/c#/ChessEngine/bin/Debug/netcoreapp2.1/ChessEngine.deps.json
+/home/pedro/Documents/c#/ChessEngine/bin/Debug/netcoreapp2.1/ChessEngine.runtimeconfig.json
+/home/pedro/Documents/c#/ChessEngine/bin/Debug/netcoreapp2.1/ChessEngine.runtimeconfig.dev.json
+/home/pedro/Documents/c#/ChessEngine/bin/Debug/netcoreapp2.1/ChessEngine.dll
+/home/pedro/Documents/c#/ChessEngine/bin/Debug/netcoreapp2.1/ChessEngine.pdb
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.csprojAssemblyReference.cache
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.csproj.CoreCompileInputs.cache
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.AssemblyInfoInputs.cache
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.AssemblyInfo.cs
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.dll
+/home/pedro/Documents/c#/ChessEngine/obj/Debug/netcoreapp2.1/ChessEngine.pdb
